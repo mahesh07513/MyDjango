@@ -1,0 +1,903 @@
+2018-11-02 14:29:18,453 DEBUG login: request is from the IP:203.109.110.192
+2018-11-02 14:29:18,453 DEBUG login:input: user=admin
+2018-11-02 14:29:18,456 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: admin "}
+2018-11-06 12:51:31,060 WARNING Not Found: /
+2018-11-06 12:51:31,789 WARNING Not Found: /favicon.ico
+2018-11-06 12:55:47,529 WARNING Not Found: /AmbienceApp/
+2018-11-06 12:55:56,523 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 12:55:56,523 DEBUG login:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2018-11-06 13:06:25,813 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-06 13:06:25,813 DEBUG add_user:input: user=test
+2018-11-06 13:06:25,835 DEBUG add_user:{"error_code":"0", "Response":"Successfully added the user : test"}
+2018-11-06 13:06:37,990 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 13:06:37,991 DEBUG login:input: user=test
+2018-11-06 13:06:37,993 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test "}
+2018-11-06 13:10:26,087 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 13:10:26,087 DEBUG login:input: user=test
+2018-11-06 13:10:26,090 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test "}
+2018-11-06 13:47:36,875 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 13:47:36,875 DEBUG login:input: user=test
+2018-11-06 13:47:36,878 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test "}
+2018-11-06 15:39:43,107 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-06 15:39:43,107 DEBUG add_user:input: user=test
+2018-11-06 15:39:43,110 DEBUG add_user:{"error_code":"4", "error_desc": "Response= Your Uername is alreay exists Please change."}
+2018-11-06 15:39:44,299 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-06 15:39:44,299 DEBUG add_user:input: user=test
+2018-11-06 15:39:44,302 DEBUG add_user:{"error_code":"4", "error_desc": "Response= Your Uername is alreay exists Please change."}
+2018-11-06 15:39:44,304 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-06 15:39:44,304 DEBUG add_user:input: user=test
+2018-11-06 15:39:44,307 DEBUG add_user:{"error_code":"4", "error_desc": "Response= Your Uername is alreay exists Please change."}
+2018-11-06 15:39:51,632 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-06 15:39:51,632 DEBUG add_user:input: user=test
+2018-11-06 15:39:51,635 DEBUG add_user:{"error_code":"4", "error_desc": "Response= Your Uername is alreay exists Please change."}
+2018-11-06 15:39:56,569 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-06 15:39:56,570 DEBUG add_user:input: user=test123
+2018-11-06 15:39:56,574 DEBUG add_user:{"error_code":"0", "Response":"Successfully added the user : test123"}
+2018-11-06 15:40:13,696 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 15:40:13,696 DEBUG login:input: user=test123
+2018-11-06 15:40:13,698 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 15:53:18,927 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 15:53:18,927 DEBUG login:input: user=test123
+2018-11-06 15:53:18,930 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 16:07:45,350 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 16:07:45,350 DEBUG login:input: user=test123
+2018-11-06 16:07:45,353 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 17:01:12,993 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 17:01:12,993 DEBUG login:input: user=test123
+2018-11-06 17:01:12,996 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 17:08:21,497 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 17:08:21,497 DEBUG login:input: user=test123
+2018-11-06 17:08:21,500 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 17:10:23,696 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 17:10:23,696 DEBUG login:input: user=test123
+2018-11-06 17:10:23,699 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 17:12:59,710 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 17:12:59,710 DEBUG login:input: user=test123
+2018-11-06 17:12:59,713 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 17:25:38,454 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 17:25:38,455 DEBUG login:input: user=test123
+2018-11-06 17:25:38,458 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 17:31:34,852 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 17:31:34,852 DEBUG login:input: user=test123
+2018-11-06 17:31:34,855 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 17:44:26,564 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 17:44:26,565 DEBUG login:input: user=test123
+2018-11-06 17:44:26,567 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 17:58:35,445 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 17:58:35,445 DEBUG login:input: user=test123
+2018-11-06 17:58:35,448 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 18:00:24,828 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 18:00:24,828 DEBUG login:input: user=test123
+2018-11-06 18:00:24,830 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 18:07:53,672 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 18:07:53,673 DEBUG login:input: user=test123
+2018-11-06 18:07:53,675 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 18:11:35,548 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 18:11:35,548 DEBUG login:input: user=test123
+2018-11-06 18:11:35,551 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-06 18:20:34,102 DEBUG login: request is from the IP:115.98.91.33
+2018-11-06 18:20:34,102 DEBUG login:input: user=test123
+2018-11-06 18:20:34,105 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 11:04:45,286 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 11:04:45,287 DEBUG login:input: user=test123
+2018-11-07 11:04:45,300 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 12:18:10,785 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 12:18:10,786 DEBUG login:input: user=test123
+2018-11-07 12:18:10,788 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 13:04:09,908 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 13:04:09,908 DEBUG login:input: user=test123
+2018-11-07 13:04:09,930 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 13:06:53,347 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 13:06:53,347 DEBUG login:input: user=test123
+2018-11-07 13:06:53,349 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 13:10:30,367 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 13:10:30,367 DEBUG login:input: user=test123
+2018-11-07 13:10:30,400 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 13:12:30,846 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 13:12:30,846 DEBUG login:input: user=test123
+2018-11-07 13:12:30,849 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 13:24:53,816 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 13:24:53,816 DEBUG login:input: user=test123
+2018-11-07 13:24:53,819 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 13:29:13,468 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 13:29:13,468 DEBUG login:input: user=test123
+2018-11-07 13:29:13,480 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 13:30:59,711 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 13:30:59,712 DEBUG login:input: user=test123
+2018-11-07 13:30:59,714 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 13:41:11,561 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 13:41:11,561 DEBUG login:input: user=test123
+2018-11-07 13:41:11,575 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-07 14:07:27,113 DEBUG login: request is from the IP:106.76.202.234
+2018-11-07 14:07:27,113 DEBUG login:input: user=test123
+2018-11-07 14:07:27,116 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 12:43:54,393 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 12:43:54,393 DEBUG login:input: user=test123
+2018-11-08 12:43:54,396 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 12:46:26,399 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 12:46:26,400 DEBUG login:input: user=test123
+2018-11-08 12:46:26,402 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 12:51:24,767 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 12:51:24,768 DEBUG login:input: user=test123
+2018-11-08 12:51:24,770 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 12:57:04,942 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 12:57:04,943 DEBUG login:input: user=test123
+2018-11-08 12:57:04,945 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 13:06:36,167 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 13:06:36,168 DEBUG login:input: user=test123
+2018-11-08 13:06:36,170 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 13:10:17,815 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 13:10:17,815 DEBUG login:input: user=test123
+2018-11-08 13:10:17,818 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 13:26:01,096 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 13:26:01,096 DEBUG login:input: user=test123
+2018-11-08 13:26:01,099 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 13:43:52,002 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 13:43:52,002 DEBUG login:input: user=test123
+2018-11-08 13:43:52,004 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 14:11:44,081 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 14:11:44,081 DEBUG login:input: user=test123
+2018-11-08 14:11:44,084 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 15:02:41,707 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 15:02:41,708 DEBUG login:input: user=test123
+2018-11-08 15:02:41,710 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 15:04:40,929 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 15:04:40,929 DEBUG login:input: user=test123
+2018-11-08 15:04:40,932 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 15:07:25,753 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 15:07:25,754 DEBUG login:input: user=test123
+2018-11-08 15:07:25,756 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 15:07:43,585 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 15:07:43,585 DEBUG login:input: user=test123
+2018-11-08 15:07:43,588 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 15:17:18,082 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 15:17:18,082 DEBUG login:input: user=test123
+2018-11-08 15:17:18,085 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 15:23:26,089 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 15:23:26,089 DEBUG login:input: user=test123
+2018-11-08 15:23:26,092 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 16:10:55,311 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 16:10:55,311 DEBUG login:input: user=test123
+2018-11-08 16:10:55,313 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 17:40:32,798 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 17:40:32,798 DEBUG login:input: user=test123
+2018-11-08 17:40:32,801 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 17:55:04,940 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 17:55:04,940 DEBUG login:input: user=test123
+2018-11-08 17:55:04,943 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 18:27:05,479 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 18:27:05,479 DEBUG login:input: user=test123
+2018-11-08 18:27:05,481 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 18:45:15,402 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 18:45:15,402 DEBUG login:input: user=test123
+2018-11-08 18:45:15,405 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 18:46:59,726 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 18:46:59,727 DEBUG login:input: user=test123
+2018-11-08 18:46:59,729 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 18:48:04,404 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 18:48:04,404 DEBUG login:input: user=test123
+2018-11-08 18:48:04,407 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 19:33:08,740 DEBUG login: request is from the IP:115.98.91.33
+2018-11-08 19:33:08,740 DEBUG login:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2018-11-08 19:33:09,367 WARNING Not Found: /favicon.ico
+2018-11-08 19:36:00,706 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 19:36:00,706 DEBUG login:input: user=test123
+2018-11-08 19:36:00,709 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-08 19:44:27,764 DEBUG login: request is from the IP:122.175.46.31
+2018-11-08 19:44:27,764 DEBUG login:input: user=test123
+2018-11-08 19:44:27,768 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-09 08:46:14,477 DEBUG login: request is from the IP:106.77.162.242
+2018-11-09 08:46:14,477 DEBUG login:input: user=test123
+2018-11-09 08:46:14,480 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-09 12:08:07,616 DEBUG get_org_type: request is from the IP:122.175.53.53
+2018-11-09 12:08:07,616 DEBUG get_org_type:input: user=admin
+2018-11-09 12:08:07,619 DEBUG get_org_type:{"error_code":"0", "Response":"Successfully got 3 org type ", 
+ "get_org_type":[{"org_type":"education"},
+ {"org_type":"health"},
+ {"org_type":"office"}]
+}
+2018-11-09 12:09:57,991 DEBUG add_light_position: request is from the IP:122.175.53.53
+2018-11-09 12:09:57,992 DEBUG add_light_position:input: user=admin
+2018-11-09 12:09:57,992 DEBUG add_light_position:{"error_code":"2", "error_desc": "Response=add_light_position- Unable to Authenticate/add_light_position... ,datetime is mandatory"}
+2018-11-09 12:12:10,633 DEBUG add_light_position: request is from the IP:122.175.53.53
+2018-11-09 12:12:10,633 DEBUG add_light_position:input: user=admin
+2018-11-09 12:12:10,633 DEBUG add_light_position:{"error_code":"2", "error_desc": "Response=add_light_position- Unable to Authenticate/add_light_position... ,esp_id is mandatory"}
+2018-11-09 12:12:39,683 DEBUG add_light_position: request is from the IP:122.175.53.53
+2018-11-09 12:12:39,683 DEBUG add_light_position:input: user=admin
+2018-11-09 12:12:39,683 DEBUG add_light_position:{"error_code":"2", "error_desc": "Response=add_light_position- Unable to Authenticate/add_light_position... ,mobile_id is mandatory"}
+2018-11-09 12:13:02,679 DEBUG add_light_position: request is from the IP:122.175.53.53
+2018-11-09 12:13:02,679 DEBUG add_light_position:input: user=admin
+2018-11-09 12:13:02,679 DEBUG add_light_position:{"error_code":"2", "error_desc": "Response=add_light_position- Unable to Authenticate/add_light_position... ,cct is mandatory"}
+2018-11-09 12:13:20,536 DEBUG add_light_position: request is from the IP:122.175.53.53
+2018-11-09 12:13:20,536 DEBUG add_light_position:input: user=admin
+2018-11-09 12:13:20,536 DEBUG add_light_position:{"error_code":"2", "error_desc": "Response=add_light_position- Unable to Authenticate/add_light_position... ,light_intencity1  is mandatory"}
+2018-11-09 12:13:34,553 DEBUG add_light_position: request is from the IP:122.175.53.53
+2018-11-09 12:13:34,554 DEBUG add_light_position:input: user=admin
+2018-11-09 12:13:34,554 DEBUG add_light_position:{"error_code":"2", "error_desc": "Response=add_light_position- Unable to Authenticate/add_light_position... ,light_intencity2  is mandatory"}
+2018-11-09 12:13:53,437 DEBUG add_light_position: request is from the IP:122.175.53.53
+2018-11-09 12:13:53,437 DEBUG add_light_position:input: user=admin
+2018-11-09 12:13:53,442 DEBUG add_light_position:{"error_code":"0", "Response":"Successfully added the light settings for esp = 1"}
+2018-11-09 12:17:44,390 DEBUG login: request is from the IP:106.76.196.251
+2018-11-09 12:17:44,390 DEBUG login:input: user=test123
+2018-11-09 12:17:44,393 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-09 12:19:26,674 DEBUG login: request is from the IP:106.76.196.251
+2018-11-09 12:19:26,674 DEBUG login:input: user=test123
+2018-11-09 12:19:26,677 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: test123 "}
+2018-11-09 13:44:20,494 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 13:44:20,494 DEBUG login:input: user=testing
+2018-11-09 13:44:20,498 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 13:45:55,539 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 13:45:55,540 DEBUG login:input: user=testing
+2018-11-09 13:45:55,542 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 13:46:20,031 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 13:46:20,031 DEBUG login:input: user=testing
+2018-11-09 13:46:20,033 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 14:01:20,092 WARNING Not Found: /
+2018-11-09 14:01:20,675 WARNING Not Found: /favicon.ico
+2018-11-09 14:01:28,145 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:39,358 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:39,363 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:42,306 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:42,312 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:44,320 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:44,328 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:47,304 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:47,312 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:49,308 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:49,313 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:52,293 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:52,298 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:54,407 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:54,415 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:57,402 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:01:57,405 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:59,445 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:01:59,450 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:02:02,761 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:02:02,764 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:02:24,306 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:02:24,311 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:02:26,211 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:02:26,215 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:02:32,309 WARNING Not Found: /AssetTrackerApp/
+2018-11-09 14:02:32,317 WARNING Not Found: /AmbienceApp/
+2018-11-09 14:05:22,416 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 14:05:22,416 DEBUG login:input: user=testing
+2018-11-09 14:05:22,416 ERROR Internal Server Error: /AmbienceApp/login/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/jtsadmin/django/Ambience/AmbienceApp/views.py", line 659, in login
+    if Light_Users.objects.filter(Username = username,Password=password).exists():
+NameError: global name 'Light_Users' is not defined
+2018-11-09 14:14:15,859 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 14:14:15,859 DEBUG login:input: user=testing
+2018-11-09 14:14:15,862 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 14:15:04,788 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 14:15:04,789 DEBUG login:input: user=test123
+2018-11-09 14:15:04,791 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 14:15:29,936 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 14:15:29,937 DEBUG login:input: user=test123
+2018-11-09 14:15:29,939 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 14:17:04,083 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 14:17:04,083 DEBUG login:input: user=test123
+2018-11-09 14:17:04,086 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 14:18:27,940 DEBUG get_org_type: request is from the IP:122.175.53.53
+2018-11-09 14:18:27,940 DEBUG get_org_type:input: user=admin
+2018-11-09 14:18:27,943 DEBUG get_org_type:get_org_type:exception details:[<type 'exceptions.AttributeError'>],['Light_Org_Types' object has no attribute 'Premisis_id']
+2018-11-09 14:18:27,943 DEBUG get_org_type:{"error_code":"3", "error_desc": "Response=Failed to get the org type "}
+2018-11-09 14:22:41,150 DEBUG get_org_type: request is from the IP:122.175.53.53
+2018-11-09 14:22:41,150 DEBUG get_org_type:input: user=admin
+2018-11-09 14:22:41,152 DEBUG get_org_type:{"error_code":"0", "Response":"Successfully got 3 org type ", 
+ "get_org_type":[{"org_id":"1","org_type":"Education"},
+ {"org_id":"2","org_type":"Office"},
+ {"org_id":"3","org_type":"Health"}]
+}
+2018-11-09 14:32:44,465 DEBUG get_org_type: request is from the IP:115.98.91.33
+2018-11-09 14:32:44,466 DEBUG get_org_type:input: user=admin
+2018-11-09 14:32:44,468 DEBUG get_org_type:{"error_code":"0", "Response":"Successfully got 3 org type ", 
+ "get_org_type":[{"org_tid":"1","org_type":"Education"},
+ {"org_tid":"2","org_type":"Office"},
+ {"org_tid":"3","org_type":"Health"}]
+}
+2018-11-09 14:34:04,302 WARNING Not Found: /AmbienceApp/get_orgs/
+2018-11-09 14:34:11,084 ERROR The pathname '/home/jtsadmin/django/Ambience/AmbienceApp/urls.py' of this watch <Watch wd=1059 path=/home/jtsadmin/django/Ambience/AmbienceApp/urls.py mask=4038 proc_fun=None auto_add=False exclude_filter=<function <lambda> at 0x7f1295611500> dir=False > has probably changed and couldn't be updated, so it cannot be trusted anymore. To fix this error move directories/files only between watched parents directories, in this case e.g. put a watch on '/home/jtsadmin/django/Ambience/AmbienceApp'.
+2018-11-09 14:34:14,401 DEBUG get_orgs: request is from the IP:115.98.91.33
+2018-11-09 14:34:14,401 DEBUG get_orgs:input: user=admin
+2018-11-09 14:34:14,403 DEBUG get_orgs:{"error_code":"0", "Response":"Successfully got 3 org type ", 
+ "get_org_names":[{"org_id":"1","org_name":"Bajaj"},
+ {"org_id":"2","org_name":"Surya"},
+ {"org_id":"3","org_name":"Spectrum"}]
+}
+2018-11-09 14:36:58,350 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-09 14:36:58,350 DEBUG add_user:input: user=jts_admin
+2018-11-09 14:36:58,354 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'1'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 14:36:58,354 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 14:58:53,370 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 14:58:53,371 DEBUG add_user:input: user=jts_admin
+2018-11-09 14:58:53,374 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'1'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 14:58:53,374 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:01:13,354 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:01:13,354 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:01:13,357 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'1'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:01:13,357 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:03:15,050 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:03:15,050 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:03:15,053 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'1'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:03:15,053 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:05:24,042 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:05:24,042 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:05:24,045 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'1'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:05:24,045 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:08:19,595 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:08:19,595 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:08:19,599 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'1'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:08:19,599 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:09:18,566 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:09:18,566 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:09:18,571 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'1'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:09:18,571 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:09:31,472 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:09:31,472 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:09:31,475 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'3'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:09:31,475 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:09:56,123 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:09:56,123 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:09:56,127 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "u'3'": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:09:56,127 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:10:26,401 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 15:10:26,401 DEBUG login:input: user=test123
+2018-11-09 15:10:26,404 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 15:10:39,206 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 15:10:39,206 DEBUG login:input: user=test123
+2018-11-09 15:10:39,208 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 15:10:49,446 DEBUG login: request is from the IP:115.98.91.33
+2018-11-09 15:10:49,446 DEBUG login:input: user=test123
+2018-11-09 15:10:49,449 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 15:11:12,254 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:11:12,254 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:11:12,259 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:11:12,259 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:11:52,133 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:11:52,134 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:11:52,139 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:11:52,139 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:16:36,787 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:16:36,787 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:16:36,792 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:16:36,792 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:17:13,159 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:17:13,160 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:17:13,166 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:17:13,166 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:17:31,166 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:17:31,166 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:17:31,171 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:17:31,171 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:17:49,547 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:17:49,547 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:17:49,552 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:17:49,553 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:18:06,072 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:18:06,072 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:18:06,077 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:18:06,077 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:18:25,033 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:18:25,033 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:18:25,038 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:18:25,038 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:18:45,871 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:18:45,871 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:18:45,875 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:18:45,875 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:19:08,216 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:19:08,216 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:19:08,221 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:19:08,221 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:19:49,382 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:19:49,382 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:19:49,387 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:19:49,387 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:22:18,410 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:22:18,411 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:22:18,418 ERROR Internal Server Error: /AmbienceApp/add_user/
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python2.7/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python2.7/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/jtsadmin/django/Ambience/AmbienceApp/views.py", line 701, in add_user
+    except MySQLdb.Error, e:
+NameError: global name 'MySQLdb' is not defined
+2018-11-09 15:22:55,183 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:22:55,183 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:22:55,188 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:22:55,188 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:23:05,218 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-09 15:23:05,218 DEBUG add_user:input: user=jtstest
+2018-11-09 15:23:05,221 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:23:05,221 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:23:05,978 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-09 15:23:05,978 DEBUG add_user:input: user=jtstest
+2018-11-09 15:23:05,981 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:23:05,981 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:23:14,371 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:23:14,371 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:23:14,375 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:23:14,376 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:23:16,060 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-09 15:23:16,061 DEBUG add_user:input: user=jtstest
+2018-11-09 15:23:16,064 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:23:16,064 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:23:31,932 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:23:31,932 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:23:31,936 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:23:31,936 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:23:34,286 DEBUG add_user: request is from the IP:115.98.91.33
+2018-11-09 15:23:34,286 DEBUG add_user:input: user=jtstest
+2018-11-09 15:23:34,289 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:23:34,289 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:24:32,434 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:24:32,435 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:24:32,439 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:24:32,439 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:25:32,443 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:25:32,444 DEBUG add_user:input: user=jtstest
+2018-11-09 15:25:32,447 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:25:32,447 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:25:43,027 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:25:43,028 DEBUG add_user:input: user=jtstest
+2018-11-09 15:25:43,030 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:25:43,030 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:26:10,762 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:26:10,762 DEBUG add_user:input: user=jtstest
+2018-11-09 15:26:10,766 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:26:10,766 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:26:13,573 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:26:13,574 DEBUG add_user:input: user=jtstest
+2018-11-09 15:26:13,577 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:26:13,577 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:27:09,096 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:27:09,096 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:27:09,101 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[Cannot assign "3L": "Light_Users.OrgTypeId" must be a "Light_Org_Types" instance.]
+2018-11-09 15:27:09,101 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:27:43,840 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 15:27:43,840 DEBUG login:input: user=test123
+2018-11-09 15:27:43,843 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 15:28:56,646 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:28:56,646 DEBUG add_user:input: user=jtstest
+2018-11-09 15:28:56,649 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:28:56,650 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:29:03,920 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:29:03,920 DEBUG add_user:input: user=jtstest
+2018-11-09 15:29:03,923 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:29:03,923 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:29:25,077 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:29:25,077 DEBUG add_user:input: user=jtstest
+2018-11-09 15:29:25,080 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:29:25,080 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:29:33,512 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:29:33,512 DEBUG add_user:input: user=jtstest
+2018-11-09 15:29:33,515 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:29:33,515 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:29:36,490 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:29:36,491 DEBUG add_user:input: user=jtstest
+2018-11-09 15:29:36,493 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:29:36,493 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:30:20,282 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:30:20,282 DEBUG add_user:input: user=jtstest
+2018-11-09 15:30:20,285 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:30:20,285 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:31:21,133 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:31:21,134 DEBUG add_user:input: user=jtstest
+2018-11-09 15:31:21,136 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:31:21,136 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:32:23,995 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:32:23,995 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:32:23,999 DEBUG add_user:add_user:exception details:[<class 'django.db.utils.IntegrityError'>],[(1062, "Duplicate entry '3' for key 'PRIMARY'")]
+2018-11-09 15:32:23,999 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:32:45,747 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:32:45,748 DEBUG add_user:input: user=jtstest
+2018-11-09 15:32:45,752 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:32:45,752 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:32:53,203 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:32:53,203 DEBUG add_user:input: user=jtstest
+2018-11-09 15:32:53,206 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:32:53,206 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:33:48,811 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:33:48,811 DEBUG add_user:input: user=jtstest
+2018-11-09 15:33:48,815 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:33:48,815 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:34:06,732 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:34:06,732 DEBUG add_user:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2018-11-09 15:34:07,063 WARNING Not Found: /favicon.ico
+2018-11-09 15:35:38,944 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:35:38,945 DEBUG add_user:input: user=jtstest
+2018-11-09 15:35:38,948 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:35:38,948 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:40:09,316 DEBUG add_user: request is from the IP:122.175.53.53
+2018-11-09 15:40:09,316 DEBUG add_user:input: user=jts_admin
+2018-11-09 15:40:09,322 DEBUG add_user:{"error_code":"0", "Response":"Successfully added the user : jts_admin"}
+2018-11-09 15:42:07,864 DEBUG login: request is from the IP:122.175.53.53
+2018-11-09 15:42:07,864 DEBUG login:input: user=jts_admin
+2018-11-09 15:42:07,867 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jts_admin "}
+2018-11-09 15:46:31,894 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:46:31,894 DEBUG add_user:input: user=jtstest
+2018-11-09 15:46:31,897 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:46:31,897 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:46:40,558 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:46:40,558 DEBUG add_user:input: user=jtstest
+2018-11-09 15:46:40,562 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:46:40,562 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:46:44,955 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:46:44,955 DEBUG add_user:input: user=jtstest
+2018-11-09 15:46:44,959 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:46:44,959 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:51:42,487 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:51:42,487 DEBUG add_user:input: user=jtstest
+2018-11-09 15:51:42,490 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:51:42,490 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:51:46,367 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:51:46,367 DEBUG add_user:input: user=jtstest
+2018-11-09 15:51:46,369 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:51:46,369 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:53:51,161 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:53:51,161 DEBUG add_user:input: user=jtstest
+2018-11-09 15:53:51,164 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:53:51,164 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:54:31,773 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 15:54:31,773 DEBUG add_user:input: user=jtstest
+2018-11-09 15:54:31,776 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 15:54:31,776 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 15:54:54,889 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 15:54:54,889 DEBUG login:input: user=jtstest
+2018-11-09 15:54:54,892 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 15:55:04,306 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 15:55:04,306 DEBUG login:input: user=jtstest
+2018-11-09 15:55:04,309 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 16:05:05,809 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:05,809 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:05,812 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:05,812 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:06,567 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:06,568 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:06,568 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:06,569 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:06,570 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:06,571 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:06,573 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:06,574 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:06,578 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:06,578 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:06,578 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:06,579 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:06,579 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:06,580 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:06,580 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:06,581 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:07,235 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:07,235 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:07,239 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:07,239 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:07,263 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:07,264 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:07,266 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:07,267 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:07,282 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:07,283 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:07,286 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:07,286 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:07,287 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:07,287 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:07,290 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:07,290 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:07,977 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:07,977 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:07,981 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:07,981 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:07,986 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:07,986 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:07,989 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:07,989 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:07,999 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:08,000 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:08,001 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:08,001 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:08,004 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:08,004 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:08,004 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:08,004 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:05:43,073 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:05:43,073 DEBUG add_user:input: user=jtstest
+2018-11-09 16:05:43,076 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:05:43,076 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:35:23,098 DEBUG login: request is from the IP:122.175.53.53
+2018-11-09 16:35:23,098 DEBUG login:input: user=jts_admin
+2018-11-09 16:35:23,101 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jts_admin "}
+2018-11-09 16:43:48,882 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 16:43:48,882 DEBUG login:input: user=test123
+2018-11-09 16:43:48,885 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 16:44:41,535 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:44:41,535 DEBUG add_user:input: user=jtstest
+2018-11-09 16:44:41,539 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:44:41,539 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:44:55,286 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:44:55,286 DEBUG add_user:input: user=jtstest
+2018-11-09 16:44:55,290 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:44:55,290 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:46:41,554 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 16:46:41,555 DEBUG login:input: user=jtstest
+2018-11-09 16:46:41,558 DEBUG login:Failed to Authenticate{"error_code":"2", "error_desc": "Response=login- Unable to Authenticate/login... "}
+2018-11-09 16:48:21,043 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:48:21,043 DEBUG add_user:input: user=jtstest
+2018-11-09 16:48:21,046 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:48:21,046 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:48:39,266 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:48:39,267 DEBUG add_user:input: user=jtstest
+2018-11-09 16:48:39,270 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:48:39,270 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:49:08,657 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 16:49:08,658 DEBUG add_user:input: user=jtstest
+2018-11-09 16:49:08,661 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Others']
+2018-11-09 16:49:08,661 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:49:32,085 DEBUG add_user: request is from the IP:122.175.46.31
+2018-11-09 16:49:32,086 DEBUG add_user:input: user=hi
+2018-11-09 16:49:32,089 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Perment']
+2018-11-09 16:49:32,089 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:49:40,252 DEBUG add_user: request is from the IP:122.175.46.31
+2018-11-09 16:49:40,253 DEBUG add_user:input: user=hi
+2018-11-09 16:49:40,256 DEBUG add_user:add_user:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'Perment']
+2018-11-09 16:49:40,256 DEBUG add_user:{"error_code":"3", "error_desc": "Response=Failed to add the user"}
+2018-11-09 16:50:13,004 DEBUG get_org_type: request is from the IP:122.175.53.53
+2018-11-09 16:50:13,004 DEBUG get_org_type:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2018-11-09 16:58:58,933 WARNING Not Found: /AmbienceApp/add_premise/
+2018-11-09 16:59:21,207 DEBUG add_premise: request is from the IP:122.175.53.53
+2018-11-09 16:59:21,207 DEBUG add_premise:input: user=jts_admin
+2018-11-09 16:59:21,211 DEBUG add_user:{"error_code":"4", "error_desc": "Response= no rights to  change."}
+2018-11-09 17:03:12,358 DEBUG add_premise: request is from the IP:122.175.53.53
+2018-11-09 17:03:12,358 DEBUG add_premise:input: user=jts_admin
+2018-11-09 17:03:12,362 DEBUG add_premise:{"error_code":"0", "Response":"Successfully added the premise : jts_admin"}
+2018-11-09 17:23:04,838 WARNING Not Found: /AmbienceApp/add_space/
+2018-11-09 17:23:17,734 DEBUG add_space: request is from the IP:122.175.53.53
+2018-11-09 17:23:17,734 DEBUG add_space:input: user=jts_admin
+2018-11-09 17:23:17,735 DEBUG add_space:add_space:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'jtsha']
+2018-11-09 17:23:17,735 DEBUG add_space:{"error_code":"3", "error_desc": "Response=Failed to add the space"}
+2018-11-09 17:26:40,656 DEBUG add_space: request is from the IP:122.175.53.53
+2018-11-09 17:26:40,656 DEBUG add_space:input: user=jts_admin
+2018-11-09 17:26:40,656 DEBUG add_space:add_space:exception details:[<type 'exceptions.ValueError'>],[invalid literal for int() with base 10: 'jtsha']
+2018-11-09 17:26:40,656 DEBUG add_space:{"error_code":"3", "error_desc": "Response=Failed to add the space"}
+2018-11-09 17:26:45,950 DEBUG add_space: request is from the IP:122.175.53.53
+2018-11-09 17:26:45,950 DEBUG add_space:input: user=jts_admin
+2018-11-09 17:26:45,954 DEBUG add_space:{"error_code":"0", "Response":"Successfully added the space : jts_admin"}
+2018-11-09 17:36:11,916 WARNING Not Found: /AmbienceApp/get_premise/
+2018-11-09 17:36:14,374 WARNING Not Found: /AmbienceApp/get_premise/
+2018-11-09 17:36:37,976 DEBUG get_premise: request is from the IP:122.175.53.53
+2018-11-09 17:36:37,976 DEBUG get_premise:{"error_code":"2", "error_desc": "Response=get_premise- Unable to Authenticate/get_premise... ,username is mandatory"}
+2018-11-09 17:37:11,243 DEBUG get_premise: request is from the IP:122.175.53.53
+2018-11-09 17:37:11,243 DEBUG get_premise:input: user=jts_admin
+2018-11-09 17:37:11,243 DEBUG get_premise:Failed to Authenticate{"error_code":"2", "error_desc": "Response=get_premise- Unable to Authenticate/get_premise... "}
+2018-11-09 17:37:37,974 DEBUG get_premise: request is from the IP:122.175.53.53
+2018-11-09 17:37:37,974 DEBUG get_premise:input: user=jts_admin
+2018-11-09 17:37:37,978 DEBUG get_premise:{"error_code":"0", "Response":"Successfully got 1 org type ", 
+ "get_premises":[{"premise_id":"1","premise_name":"jtsha"}]
+}
+2018-11-09 17:42:27,893 WARNING Not Found: /AmbienceApp/get_spaces/
+2018-11-09 17:42:42,710 DEBUG get_premise: request is from the IP:122.175.53.53
+2018-11-09 17:42:42,710 DEBUG get_premise:input: user=jts_admin
+2018-11-09 17:42:42,714 DEBUG get_premise:{"error_code":"0", "Response":"Successfully got 1 org type ", 
+ "get_premises":[{"space_id":"1","space_name":"first"}]
+}
+2018-11-09 17:43:19,149 DEBUG get_premise: request is from the IP:122.175.53.53
+2018-11-09 17:43:19,149 DEBUG get_premise:input: user=jts_admin
+2018-11-09 17:43:19,153 DEBUG get_premise:{"error_code":"0", "Response":"Successfully got 1 org type ", 
+ "get_spaces":[{"space_id":"1","space_name":"first"}]
+}
+2018-11-09 17:45:00,373 DEBUG get_premise: request is from the IP:122.175.53.53
+2018-11-09 17:45:00,373 DEBUG get_premise:input: user=jts_admin
+2018-11-09 17:45:00,377 DEBUG get_premise:{"error_code":"0", "Response":"Successfully got 1 spaces ", 
+ "get_spaces":[{"space_id":"1","space_name":"first"}]
+}
+2018-11-09 18:24:26,262 DEBUG add_user: request is from the IP:203.109.110.192
+2018-11-09 18:24:26,262 DEBUG add_user:input: user=jtstest
+2018-11-09 18:24:26,268 DEBUG add_user:{"error_code":"0", "Response":"Successfully added the user : jtstest"}
+2018-11-09 18:25:08,891 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 18:25:08,891 DEBUG login:input: user=jtstest
+2018-11-09 18:25:08,894 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-09 18:27:36,017 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 18:27:36,018 DEBUG login:input: user=jtstest
+2018-11-09 18:27:36,020 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-09 18:30:40,169 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 18:30:40,169 DEBUG login:input: user=jtstest
+2018-11-09 18:30:40,172 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-09 18:35:36,173 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 18:35:36,173 DEBUG login:input: user=jtstest
+2018-11-09 18:35:36,177 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-09 18:38:24,891 DEBUG get_premise: request is from the IP:122.175.53.53
+2018-11-09 18:38:24,892 DEBUG get_premise:input: user=jts_admin
+2018-11-09 18:38:24,895 DEBUG get_premise:{"error_code":"0", "Response":"Successfully got 1 spaces ", 
+ "get_spaces":[{"space_id":"1","space_name":"first"}]
+}
+2018-11-09 18:38:33,660 DEBUG get_premise: request is from the IP:122.175.53.53
+2018-11-09 18:38:33,660 DEBUG get_premise:input: user=jts_admin
+2018-11-09 18:38:33,664 DEBUG get_premise:{"error_code":"0", "Response":"Successfully got 1 premises ", 
+ "get_premises":[{"premise_id":"1","premise_name":"jtsha"}]
+}
+2018-11-09 18:38:44,420 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 18:38:44,420 DEBUG login:input: user=jtstest
+2018-11-09 18:38:44,422 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-09 18:41:33,270 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 18:41:33,270 DEBUG login:input: user=jtstest
+2018-11-09 18:41:33,273 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-09 18:42:49,464 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 18:42:49,464 DEBUG login:input: user=jtstest
+2018-11-09 18:42:49,467 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-09 18:47:36,455 DEBUG login: request is from the IP:203.109.110.192
+2018-11-09 18:47:36,455 DEBUG login:input: user=jtstest
+2018-11-09 18:47:36,459 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-10 13:46:58,808 DEBUG login: request is from the IP:115.98.91.33
+2018-11-10 13:46:58,825 DEBUG login:input: user=jtstest
+2018-11-10 13:46:58,849 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-10 15:09:00,177 DEBUG login: request is from the IP:203.109.110.192
+2018-11-10 15:09:00,177 DEBUG login:input: user=jtstest
+2018-11-10 15:09:00,180 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-10 15:14:20,646 DEBUG login: request is from the IP:203.109.110.192
+2018-11-10 15:14:20,646 DEBUG login:input: user=jtstest
+2018-11-10 15:14:20,648 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-10 16:46:03,379 DEBUG get_org_type: request is from the IP:203.109.110.192
+2018-11-10 16:46:03,380 DEBUG get_org_type:{"error_code":"2", "error_desc": "Response=get_org_type- Unable to Authenticate/get_org_type... ,username is mandatory"}
+2018-11-10 16:46:03,384 DEBUG get_orgs: request is from the IP:203.109.110.192
+2018-11-10 16:46:03,385 DEBUG get_orgs:{"error_code":"2", "error_desc": "Response=get_orgs- Unable to Authenticate/get_orgs... ,username is mandatory"}
+2018-11-10 16:50:21,401 DEBUG get_orgs: request is from the IP:203.109.110.192
+2018-11-10 16:50:21,401 DEBUG get_orgs:{"error_code":"2", "error_desc": "Response=get_orgs- Unable to Authenticate/get_orgs... ,username is mandatory"}
+2018-11-10 16:50:21,404 DEBUG get_org_type: request is from the IP:203.109.110.192
+2018-11-10 16:50:21,405 DEBUG get_org_type:{"error_code":"2", "error_desc": "Response=get_org_type- Unable to Authenticate/get_org_type... ,username is mandatory"}
+2018-11-10 16:54:35,406 DEBUG get_orgs: request is from the IP:203.109.110.192
+2018-11-10 16:54:35,407 DEBUG get_org_type: request is from the IP:203.109.110.192
+2018-11-10 16:54:35,407 DEBUG get_orgs:{"error_code":"2", "error_desc": "Response=get_orgs- Unable to Authenticate/get_orgs... ,username is mandatory"}
+2018-11-10 16:54:35,407 DEBUG get_org_type:{"error_code":"2", "error_desc": "Response=get_org_type- Unable to Authenticate/get_org_type... ,username is mandatory"}
+2018-11-10 17:01:24,522 DEBUG get_org_type: request is from the IP:203.109.110.192
+2018-11-10 17:01:24,523 DEBUG get_orgs: request is from the IP:203.109.110.192
+2018-11-10 17:01:24,524 DEBUG get_org_type:input: user=admin
+2018-11-10 17:01:24,524 DEBUG get_orgs:input: user=admin
+2018-11-10 17:01:24,537 DEBUG get_orgs:{"error_code":"0", "Response":"Successfully got 3 org names ", 
+ "get_org_names":[{"org_id":"1","org_name":"Bajaj"},
+ {"org_id":"2","org_name":"Surya"},
+ {"org_id":"3","org_name":"Spectrum"}]
+}
+2018-11-10 17:01:24,539 DEBUG get_org_type:{"error_code":"0", "Response":"Successfully got 3 org type ", 
+ "get_org_type":[{"org_tid":"1","org_type":"Education"},
+ {"org_tid":"2","org_type":"Office"},
+ {"org_tid":"3","org_type":"Health"}]
+}
+2018-11-10 17:06:57,674 DEBUG get_orgs: request is from the IP:203.109.110.192
+2018-11-10 17:06:57,675 DEBUG get_org_type: request is from the IP:203.109.110.192
+2018-11-10 17:06:57,675 DEBUG get_orgs:input: user=admin
+2018-11-10 17:06:57,675 DEBUG get_org_type:input: user=admin
+2018-11-10 17:06:57,679 DEBUG get_orgs:{"error_code":"0", "Response":"Successfully got 3 org names ", 
+ "get_org_names":[{"org_id":"1","org_name":"Bajaj"},
+ {"org_id":"2","org_name":"Surya"},
+ {"org_id":"3","org_name":"Spectrum"}]
+}
+2018-11-10 17:06:57,679 DEBUG get_org_type:{"error_code":"0", "Response":"Successfully got 3 org type ", 
+ "get_org_type":[{"org_tid":"1","org_type":"Education"},
+ {"org_tid":"2","org_type":"Office"},
+ {"org_tid":"3","org_type":"Health"}]
+}
+2018-11-10 17:07:21,097 DEBUG login: request is from the IP:203.109.110.192
+2018-11-10 17:07:21,097 DEBUG login:input: user=jtstest
+2018-11-10 17:07:21,100 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-10 18:15:30,938 DEBUG login: request is from the IP:203.109.110.192
+2018-11-10 18:15:30,939 DEBUG login:input: user=jtstest
+2018-11-10 18:15:30,941 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-10 18:17:45,054 DEBUG login: request is from the IP:203.109.110.192
+2018-11-10 18:17:45,055 DEBUG login:input: user=jtstest
+2018-11-10 18:17:45,058 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-11 17:53:20,965 DEBUG login: request is from the IP:203.109.110.192
+2018-11-11 17:53:20,965 DEBUG login:input: user=jtstest
+2018-11-11 17:53:20,968 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-11 18:09:56,014 DEBUG login: request is from the IP:203.109.110.192
+2018-11-11 18:09:56,014 DEBUG login:input: user=jtstest
+2018-11-11 18:09:56,017 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-12 15:25:57,608 WARNING Not Found: /
+2018-11-12 15:25:58,769 WARNING Not Found: /favicon.ico
+2018-11-12 15:27:16,094 WARNING Not Found: /
+2018-11-14 18:26:41,806 WARNING Not Found: /
+2018-11-14 18:26:42,385 WARNING Not Found: /favicon.ico
+2018-11-14 18:26:46,922 DEBUG login: request is from the IP:115.98.91.33
+2018-11-14 18:26:46,922 DEBUG login:input: user=jtstest
+2018-11-14 18:26:46,926 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-14 19:44:14,903 DEBUG login: request is from the IP:115.98.91.33
+2018-11-14 19:44:14,904 DEBUG login:input: user=jtstest
+2018-11-14 19:44:14,906 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-14 19:44:17,816 DEBUG login: request is from the IP:115.98.91.33
+2018-11-14 19:44:17,817 DEBUG login:input: user=jtstest
+2018-11-14 19:44:17,819 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-15 16:05:58,857 DEBUG login: request is from the IP:115.98.91.33
+2018-11-15 16:05:58,857 DEBUG login:input: user=jtstest
+2018-11-15 16:05:58,860 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-15 16:07:34,666 DEBUG login: request is from the IP:115.98.91.33
+2018-11-15 16:07:34,667 DEBUG login:input: user=jtstest
+2018-11-15 16:07:34,669 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-15 16:19:13,374 DEBUG login: request is from the IP:115.98.91.33
+2018-11-15 16:19:13,375 DEBUG login:input: user=jtstest
+2018-11-15 16:19:13,378 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-15 16:31:38,277 DEBUG login: request is from the IP:115.98.91.33
+2018-11-15 16:31:38,278 DEBUG login:input: user=jtstest
+2018-11-15 16:31:38,281 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-15 16:34:23,407 DEBUG login: request is from the IP:115.98.91.33
+2018-11-15 16:34:23,408 DEBUG login:input: user=jtstest
+2018-11-15 16:34:23,411 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-15 16:35:53,501 DEBUG login: request is from the IP:115.98.91.33
+2018-11-15 16:35:53,501 DEBUG login:input: user=jtstest
+2018-11-15 16:35:53,504 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-15 16:37:11,025 DEBUG login: request is from the IP:115.98.91.33
+2018-11-15 16:37:11,025 DEBUG login:input: user=jtstest
+2018-11-15 16:37:11,027 DEBUG login:{"error_code":"0", "Response":"Successfully Authenticated for user: jtstest "}
+2018-11-16 20:07:47,283 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:07:47,305 WARNING Not Found: /AssetTrackerApp/
+2018-11-16 20:09:42,297 WARNING Not Found: /AssetTrackerApp/
+2018-11-16 20:09:42,302 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:09:44,282 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:09:44,286 WARNING Not Found: /AssetTrackerApp/
+2018-11-16 20:09:47,531 WARNING Not Found: /AssetTrackerApp/
+2018-11-16 20:09:47,540 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:09:49,299 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:09:49,304 WARNING Not Found: /AssetTrackerApp/
+2018-11-16 20:09:52,323 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:09:52,328 WARNING Not Found: /AssetTrackerApp/
+2018-11-16 20:11:14,368 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:11:14,444 WARNING Not Found: /AssetTrackerApp/
+2018-11-16 20:11:16,305 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:11:16,311 WARNING Not Found: /AssetTrackerApp/
+2018-11-16 20:11:28,325 WARNING Not Found: /AmbienceApp/
+2018-11-16 20:11:28,331 WARNING Not Found: /AssetTrackerApp/
+2018-11-22 12:56:52,583 DEBUG login: request is from the IP:203.109.110.192
+2018-11-22 12:56:52,592 DEBUG login:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2018-11-22 12:57:06,674 WARNING Not Found: /favicon.ico
+2018-12-15 15:44:14,316 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 15:44:18,270 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 15:44:33,896 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 15:44:46,289 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 16:02:24,086 WARNING Not Found: /GenericACApp/media/Jochebed.png
+2018-12-15 16:02:40,371 WARNING Not Found: /GenericACApp/media/Jochebed.png
+2018-12-15 16:07:23,451 WARNING Not Found: /GenericACApp/media/Jochebed.png
+2018-12-15 16:07:28,592 WARNING Not Found: /GenericACApp/media/Jochebed.png
+2018-12-15 16:07:30,634 WARNING Not Found: /GenericACApp/media/Jochebed.png
+2018-12-15 16:07:34,098 WARNING Not Found: /GenericACApp/media/Jochebed.png
+2018-12-15 16:08:37,173 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 16:08:42,815 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 16:09:00,091 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 16:10:18,624 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 16:10:19,713 WARNING Not Found: /favicon.ico
+2018-12-15 16:12:17,343 WARNING Not Found: /
+2018-12-15 16:12:27,784 WARNING Not Found: /
+2018-12-15 16:12:28,209 WARNING Not Found: /favicon.ico
+2018-12-15 16:12:33,444 WARNING Not Found: /GrowBoxApp/get_growbox_data/
+2018-12-15 16:12:41,852 WARNING Not Found: /
+2018-12-15 16:12:51,372 WARNING Not Found: /AmbienceApp/
+2018-12-15 16:13:07,192 WARNING Not Found: /
+2018-12-15 16:13:08,324 WARNING Not Found: /favicon.ico
+2018-12-15 16:13:10,197 WARNING Not Found: /
+2018-12-15 16:15:16,035 WARNING Not Found: /
+2018-12-15 16:15:17,870 WARNING Not Found: /
+2018-12-15 16:15:19,149 WARNING Not Found: /
+2018-12-15 16:15:20,317 WARNING Not Found: /
+2018-12-15 16:15:22,961 WARNING Not Found: /
+2018-12-15 16:15:33,797 WARNING Not Found: /AmbienceApp/
+2018-12-15 16:16:01,441 WARNING Not Found: /
+2018-12-15 16:20:53,442 WARNING Not Found: /
+2018-12-15 16:20:54,211 WARNING Not Found: /favicon.ico
+2018-12-17 23:22:29,682 WARNING Not Found: /robots.txt
+2018-12-17 23:22:33,531 WARNING Not Found: /
+2019-01-19 11:14:01,859 WARNING Not Found: /
+2019-01-19 11:14:02,208 WARNING Not Found: /favicon.ico

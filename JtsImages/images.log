@@ -1,0 +1,141 @@
+2019-01-12 15:50:02,422 DEBUG add_image: request is from the IP:106.77.183.225
+2019-01-12 15:50:03,904 DEBUG add_image:input: user=admin
+2019-01-12 15:50:03,907 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 15:53:32,127 DEBUG add_image: request is from the IP:106.77.183.225
+2019-01-12 15:53:33,764 DEBUG add_image:input: user=admin
+2019-01-12 15:53:33,767 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 15:55:29,402 DEBUG add_image: request is from the IP:106.77.183.225
+2019-01-12 15:55:30,722 DEBUG add_image:input: user=admin
+2019-01-12 15:55:30,725 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 15:56:30,128 DEBUG add_image: request is from the IP:106.77.183.225
+2019-01-12 15:56:31,556 DEBUG add_image:input: user=admin
+2019-01-12 15:56:31,558 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 15:59:14,125 DEBUG add_image: request is from the IP:106.77.183.225
+2019-01-12 15:59:15,460 DEBUG add_image:input: user=admin
+2019-01-12 15:59:15,463 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:04:35,435 DEBUG add_image: request is from the IP:115.98.91.33
+2019-01-12 16:04:35,730 DEBUG add_image:input: user=admin
+2019-01-12 16:04:35,733 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:14:15,949 DEBUG add_image: request is from the IP:115.98.91.33
+2019-01-12 16:14:16,377 DEBUG add_image:input: user=admin
+2019-01-12 16:14:16,379 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:18:55,541 DEBUG add_image: request is from the IP:157.44.243.69
+2019-01-12 16:18:55,541 DEBUG add_image:input: user=admin
+2019-01-12 16:18:55,543 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:19:20,047 DEBUG add_image: request is from the IP:157.44.243.69
+2019-01-12 16:19:29,080 DEBUG add_image: request is from the IP:157.44.243.69
+2019-01-12 16:25:25,285 WARNING Not Found: /favicon.ico
+2019-01-12 16:26:01,798 DEBUG add_image: request is from the IP:115.98.91.33
+2019-01-12 16:26:04,780 DEBUG add_image: request is from the IP:115.98.91.33
+2019-01-12 16:26:13,062 DEBUG add_image: request is from the IP:115.98.91.33
+2019-01-12 16:26:14,141 DEBUG add_image: request is from the IP:115.98.91.33
+2019-01-12 16:26:14,790 DEBUG add_image:input: user=admin
+2019-01-12 16:26:14,793 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:26:18,594 DEBUG add_image:input: user=admin
+2019-01-12 16:26:18,596 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:26:19,366 DEBUG add_image:input: user=admin
+2019-01-12 16:26:19,369 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:28:00,259 DEBUG add_image: request is from the IP:115.98.91.33
+2019-01-12 16:28:00,570 DEBUG add_image:input: user=admin
+2019-01-12 16:28:00,573 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:29:10,977 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:29:13,896 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:29:17,701 DEBUG add_image:input: user=admin
+2019-01-12 16:29:17,704 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:29:21,865 DEBUG add_image:input: user=admin
+2019-01-12 16:29:21,868 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:30:18,198 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:30:21,079 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:30:22,642 DEBUG add_image:input: user=admin
+2019-01-12 16:30:22,693 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:30:26,535 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:30:26,733 DEBUG add_image:input: user=admin
+2019-01-12 16:30:26,736 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:30:27,791 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:30:29,397 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:30:29,404 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:30:32,294 DEBUG add_image:input: user=admin
+2019-01-12 16:30:32,297 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:30:38,441 DEBUG add_image:input: user=admin
+2019-01-12 16:30:38,444 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:31:31,859 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:31:34,744 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:31:37,689 DEBUG add_image:input: user=admin
+2019-01-12 16:31:37,691 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:31:41,764 DEBUG add_image:input: user=admin
+2019-01-12 16:31:41,766 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:32:17,509 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:32:20,404 DEBUG add_image: request is from the IP:157.47.32.48
+2019-01-12 16:32:25,833 DEBUG add_image:input: user=admin
+2019-01-12 16:32:25,835 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:35:59,464 DEBUG add_image: request is from the IP:106.77.178.41
+2019-01-12 16:36:00,877 DEBUG add_image:input: user=admin
+2019-01-12 16:36:00,879 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:36:55,813 DEBUG add_image: request is from the IP:106.77.178.41
+2019-01-12 16:36:57,184 DEBUG add_image:input: user=admin
+2019-01-12 16:36:57,187 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:42:59,515 DEBUG add_image: request is from the IP:106.77.178.41
+2019-01-12 16:43:01,245 DEBUG add_image:input: user=admin
+2019-01-12 16:43:01,250 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:46:55,362 DEBUG add_image: request is from the IP:106.77.178.41
+2019-01-12 16:46:57,077 DEBUG add_image:input: user=admin
+2019-01-12 16:46:57,080 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:47:00,268 DEBUG add_image: request is from the IP:106.76.235.154
+2019-01-12 16:47:00,889 DEBUG add_image:input: user=admin
+2019-01-12 16:47:00,892 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:48:51,067 DEBUG add_image: request is from the IP:106.76.235.154
+2019-01-12 16:48:51,667 DEBUG add_image:input: user=admin
+2019-01-12 16:48:51,676 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 16:51:29,729 DEBUG add_image: request is from the IP:106.76.235.154
+2019-01-12 16:51:30,359 DEBUG add_image:input: user=admin
+2019-01-12 16:51:30,362 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 17:19:58,631 DEBUG add_image: request is from the IP:106.76.235.154
+2019-01-12 17:19:59,272 DEBUG add_image:input: user=admin
+2019-01-12 17:19:59,275 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-12 17:22:01,437 WARNING Not Found: /
+2019-01-12 17:22:02,183 WARNING Not Found: /favicon.ico
+2019-01-12 17:22:38,078 WARNING Not Found: /JtsImagesApp
+2019-01-12 17:22:44,460 WARNING Not Found: /JtsImagesApp/
+2019-01-12 20:20:58,965 WARNING Not Found: /favicon.ico
+2019-01-14 10:52:58,676 DEBUG get_images: request is from the IP:115.98.91.33
+2019-01-14 10:52:58,676 DEBUG get_images:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2019-01-14 10:53:01,415 WARNING Not Found: /favicon.ico
+2019-01-18 16:31:43,458 DEBUG get_images: request is from the IP:122.175.53.53
+2019-01-18 16:31:43,458 DEBUG get_images:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2019-01-18 16:31:44,473 WARNING Not Found: /favicon.ico
+2019-01-18 16:31:59,769 WARNING Not Found: /JtsImagesApp/
+2019-01-18 19:50:15,549 DEBUG add_image: request is from the IP:106.77.182.158
+2019-01-18 19:50:18,760 DEBUG add_image: request is from the IP:106.77.182.158
+2019-01-18 19:50:21,811 DEBUG add_image:input: user=admin
+2019-01-18 19:50:21,825 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-18 19:50:22,020 DEBUG add_image:input: user=admin
+2019-01-18 19:50:22,022 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-19 12:34:37,176 WARNING Not Found: /favicon.ico
+2019-01-19 12:34:46,614 DEBUG add_image: request is from the IP:115.66.113.91
+2019-01-19 12:34:47,023 DEBUG add_image:input: user=admin
+2019-01-19 12:34:47,026 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-19 12:37:22,769 WARNING Not Found: /favicon.ico
+2019-01-19 12:37:41,955 DEBUG add_image: request is from the IP:115.66.113.91
+2019-01-19 12:37:42,343 DEBUG add_image:input: user=admin
+2019-01-19 12:37:42,345 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-21 15:54:18,459 DEBUG add_image: request is from the IP:155.69.17.20
+2019-01-21 15:54:18,840 DEBUG add_image:input: user=admin
+2019-01-21 15:54:18,844 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-21 15:54:31,311 WARNING Not Found: /favicon.ico
+2019-01-21 18:35:17,306 DEBUG add_image: request is from the IP:66.249.88.165
+2019-01-21 18:35:17,306 DEBUG add_image:input: user=admin
+2019-01-21 18:35:17,308 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-22 07:40:42,759 WARNING Not Found: /favicon.ico
+2019-01-22 10:14:46,365 DEBUG add_image: request is from the IP:119.56.109.106
+2019-01-22 10:14:46,865 DEBUG add_image:input: user=admin
+2019-01-22 10:14:46,867 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-22 10:15:10,287 WARNING Not Found: /favicon.ico
+2019-01-22 10:52:08,851 DEBUG get_images: request is from the IP:115.98.91.33
+2019-01-22 10:52:08,851 DEBUG get_images:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2019-01-22 10:52:09,547 WARNING Not Found: /favicon.ico
+2019-01-22 10:52:12,296 DEBUG get_images: request is from the IP:115.98.91.33
+2019-01-22 10:52:12,297 DEBUG get_images:{"error_code":"3", "error_desc": "Response=GET is not supported"}
+2019-01-22 14:16:15,040 DEBUG add_image: request is from the IP:119.56.104.90
+2019-01-22 14:16:15,291 DEBUG add_image:input: user=admin
+2019-01-22 14:16:15,302 DEBUG add_image:{"error_code":"0", "Response":"Successfully added the Image"}
+2019-01-22 14:16:36,587 WARNING Not Found: /favicon.ico

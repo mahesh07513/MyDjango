@@ -1,0 +1,78 @@
+<html>
+
+<title>JTS AC Power History</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+h1 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-align:center;
+}
+div {
+    height: 100%;
+    background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%)
+}
+</style>
+<body>
+<div>
+<div class="w3-container">
+  <h1>JTS AC Power History</h1>
+  
+  <form method = "post" action = "{% url 'get_data' %}">
+{% csrf_token %}
+<select name="drop1">
+    {% for mac in data %}
+        {% ifequal mac.IpMacid selected_mac.IpMacid %}
+            <option value="{{mac.IpMacid}}" selected="selected">{{mac.IpName}}: {{mac.IpMacid}}</option>
+        {% else %}
+            <option value="{{mac.IpMacid}}">{{mac.IpName}}: {{mac.IpMacid}}</option>
+        {% endifequal %}
+    {% endfor %}
+  </select>
+
+
+<select name = "drop2" >
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="6">6</option>
+                    <option value="7">7</option>
+                    <option value="8">8</option>
+                    <option value="9">9</option>
+                    <option value="10">10</option>
+                    <option value="11">11</option>
+                    <option value="12">12</option>
+</select>
+
+<input  type = "submit" value="Submit">
+</form>
+  <!-- 
+  <table class="w3-table-all w3-centered">
+    <tr>
+      <th>Current</th>
+      <th>Voltage</th>
+      <th>Power</th> 
+      <th>ChangeDate</th>
+    </tr>
+    {% for category in data %}
+
+      <tr>
+      <td>{{category.Current}}</td>
+      <td>{{category.Voltage}}</td>
+      <td>{{category.Power}}</td>
+      <td>{{category.ChangeDate}}</td>
+      
+    </tr>
+
+    {% endfor %}
+   
+  </table>
+  --!>
+</div>
+</div>
+</body>
+
+</html>

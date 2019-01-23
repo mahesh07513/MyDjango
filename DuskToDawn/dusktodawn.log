@@ -1,0 +1,247 @@
+2018-08-25 15:34:12,423 WARNING Not Found: /OyoApp/get_roles/
+2018-08-25 16:53:13,513 WARNING Not Found: /OyoApp/get_units/
+2018-08-25 16:53:13,522 WARNING Not Found: /OyoApp/get_floors/
+2018-08-25 22:15:24,584 WARNING Not Found: /OyoApp/login/
+2018-08-27 00:00:42,882 WARNING Not Found: /OyoApp/get_floors/
+2018-08-27 09:53:01,172 WARNING Not Found: /OyoApp/get_floors/
+2018-08-30 17:51:23,178 ERROR Invalid HTTP_HOST header: 'localhost:5904'. You may need to add u'localhost' to ALLOWED_HOSTS.
+2018-09-01 16:27:24,942 ERROR Invalid HTTP_HOST header: 'localhost:5903'. You may need to add u'localhost' to ALLOWED_HOSTS.
+2018-09-01 16:29:30,579 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-01 16:29:30,579 DEBUG del_unit:input: user=mahesh
+2018-09-01 16:29:30,590 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-01 16:30:32,732 WARNING Not Found: /
+2018-09-01 16:30:33,154 WARNING Not Found: /favicon.ico
+2018-09-01 19:53:04,669 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-01 19:53:04,669 DEBUG del_unit:input: user=mahesh
+2018-09-01 19:53:04,679 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-01 19:53:07,701 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-01 19:53:07,702 DEBUG del_unit:input: user=mahesh
+2018-09-01 19:53:07,709 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-03 17:14:40,822 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-03 17:14:40,822 DEBUG del_unit:input: user=mahesh
+2018-09-03 17:14:40,835 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-07 17:47:51,794 WARNING Not Found: /robots.txt
+2018-09-07 17:47:55,652 WARNING Not Found: /
+2018-09-17 15:51:53,374 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-17 15:51:53,375 DEBUG del_unit:input: user=mahesh
+2018-09-17 15:51:53,386 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-17 15:54:38,318 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-17 15:54:38,318 DEBUG del_unit:input: user=mahesh
+2018-09-17 15:54:38,330 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-17 15:56:31,666 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-17 15:56:31,666 DEBUG del_unit:input: user=mahesh
+2018-09-17 15:56:31,676 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-17 15:59:48,919 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-17 15:59:48,920 DEBUG del_unit:input: user=mahesh
+2018-09-17 15:59:48,933 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-17 16:00:50,145 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-17 16:00:50,146 DEBUG del_unit:input: user=mahesh
+2018-09-17 16:00:50,155 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-17 16:07:45,877 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-17 16:07:45,877 DEBUG del_unit:input: user=mahesh
+2018-09-17 16:07:45,884 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-21 17:51:13,872 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-21 17:51:13,873 DEBUG del_unit:input: user=ramesh
+2018-09-21 17:51:13,883 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-21 17:51:30,634 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-21 17:51:30,634 DEBUG del_unit:input: user=ramesh
+2018-09-21 17:51:30,642 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-21 17:51:48,801 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-21 17:51:48,801 DEBUG del_unit:input: user=ramesh
+2018-09-21 17:51:48,811 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-23 23:13:08,658 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-23 23:13:08,658 DEBUG del_unit:input: user=ramesh
+2018-09-23 23:13:08,665 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-26 20:07:03,792 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-26 20:07:03,792 DEBUG del_unit:input: user=mahesh
+2018-09-26 20:07:03,799 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-09-26 20:07:13,939 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-09-26 20:07:13,940 DEBUG del_unit:input: user=mahesh
+2018-09-26 20:07:13,945 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-01 17:43:32,885 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-01 17:43:32,886 DEBUG del_unit:input: user=mahesh
+2018-10-01 17:43:32,893 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-01 18:31:23,673 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-01 18:31:23,673 DEBUG del_unit:input: user=mahesh
+2018-10-01 18:31:23,679 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-01 18:37:17,884 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-01 18:37:17,884 DEBUG del_unit:input: user=mahesh
+2018-10-01 18:37:17,891 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-01 19:39:25,988 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-01 19:39:25,988 DEBUG del_unit:input: user=mahesh
+2018-10-01 19:39:25,994 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-01 19:39:40,111 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-01 19:39:40,112 DEBUG del_unit:input: user=mahesh
+2018-10-01 19:39:40,117 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-01 19:44:14,522 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-01 19:44:14,523 DEBUG del_unit:input: user=mahesh
+2018-10-01 19:44:14,528 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:00:32,677 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:00:32,677 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:00:32,684 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:00:44,706 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:00:44,706 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:00:44,718 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:00:57,537 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:00:57,537 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:00:57,544 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:01:09,523 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:01:09,523 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:01:09,529 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:01:44,339 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:01:44,340 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:01:44,358 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:01:59,914 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:01:59,914 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:01:59,920 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:02:12,153 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:02:12,153 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:02:12,162 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:02:28,863 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:02:28,864 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:02:28,872 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-02 13:02:39,318 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-02 13:02:39,318 DEBUG del_unit:input: user=ramesh
+2018-10-02 13:02:39,325 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-03 17:58:55,869 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-03 17:58:55,870 DEBUG del_unit:input: user=mahesh
+2018-10-03 17:58:55,875 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 16:45:20,428 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 16:45:20,428 DEBUG del_unit:input: user=mahesh
+2018-10-06 16:45:20,430 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 16:45:20,431 DEBUG del_unit:input: user=mahesh
+2018-10-06 16:45:20,440 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 16:45:20,441 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 16:53:59,291 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 16:53:59,292 DEBUG del_unit:input: user=mahesh
+2018-10-06 16:53:59,293 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 16:53:59,293 DEBUG del_unit:input: user=mahesh
+2018-10-06 16:53:59,301 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 16:53:59,302 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 16:57:28,244 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 16:57:28,244 DEBUG del_unit:input: user=mahesh
+2018-10-06 16:57:28,245 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 16:57:28,246 DEBUG del_unit:input: user=mahesh
+2018-10-06 16:57:28,254 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 16:57:28,255 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:17:18,406 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:17:18,406 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:17:18,408 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:17:18,408 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:17:18,417 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:17:18,418 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:17:26,681 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:17:26,682 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:17:26,682 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:17:26,683 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:17:26,691 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:17:26,693 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:17:34,436 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:17:34,437 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:17:34,437 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:17:34,437 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:17:34,447 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:17:34,447 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:17:58,199 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:17:58,200 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:17:58,200 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:17:58,200 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:17:58,209 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:17:58,210 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:04,683 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:04,683 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:04,683 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:04,684 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:04,694 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:04,694 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:11,870 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:11,871 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:11,872 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:11,873 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:11,881 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:11,882 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:18,017 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:18,017 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:18,018 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:18,019 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:18,028 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:18,028 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:24,098 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:24,099 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:24,100 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:24,101 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:24,110 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:24,111 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:30,130 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:30,130 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:30,131 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:30,132 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:30,142 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:30,142 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:36,584 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:36,584 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:36,586 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:36,587 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:36,596 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:36,597 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:42,335 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:42,336 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:42,337 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:18:42,338 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:18:42,347 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:18:42,348 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:20:21,296 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:20:21,297 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:20:21,303 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:20:39,549 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:20:39,549 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:20:39,555 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 17:22:29,727 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 17:22:29,728 DEBUG del_unit:input: user=mahesh
+2018-10-06 17:22:29,734 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 18:24:02,833 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 18:24:02,833 DEBUG del_unit:input: user=mahesh
+2018-10-06 18:24:02,839 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-06 19:37:29,973 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-06 19:37:29,973 DEBUG del_unit:input: user=mahesh
+2018-10-06 19:37:29,979 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 12:57:39,357 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 12:57:39,357 DEBUG del_unit:input: user=mahesh
+2018-10-08 12:57:39,363 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 13:22:06,485 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 13:22:06,485 DEBUG del_unit:input: user=mahesh
+2018-10-08 13:22:06,490 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:01:46,920 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:01:46,920 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:01:46,926 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:15:07,656 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:15:07,656 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:15:07,662 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:20:10,906 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:20:10,906 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:20:10,911 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:22:08,025 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:22:08,025 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:22:08,031 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:24:03,326 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:24:03,326 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:24:03,332 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:44:49,719 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:44:49,719 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:44:49,725 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:49:26,155 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:49:26,155 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:49:26,161 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:51:40,619 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:51:40,619 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:51:40,625 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:54:26,385 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:54:26,386 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:54:26,392 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-08 14:55:04,354 DEBUG del_unit: request is from the IP:127.0.0.1
+2018-10-08 14:55:04,354 DEBUG del_unit:input: user=mahesh
+2018-10-08 14:55:04,360 DEBUG del_unit:{"error_code":"0", "error_desc": "Response=Successfully deleted the unit"}
+2018-10-10 18:36:02,896 WARNING Not Found: /
+2018-10-10 18:36:03,330 WARNING Not Found: /favicon.ico
+2018-12-15 16:23:26,477 WARNING Not Found: /
+2018-12-15 16:23:27,200 WARNING Not Found: /favicon.ico

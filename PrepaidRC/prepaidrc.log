@@ -1,0 +1,76 @@
+2018-09-18 17:05:29,899 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-18 17:05:29,899 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.NameError'>],[global name 'pass1' is not defined]
+2018-09-18 17:05:29,899 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-18 17:06:00,145 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-18 17:06:00,145 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.NameError'>],[global name 'pass1' is not defined]
+2018-09-18 17:06:00,145 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-18 17:08:26,643 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-18 17:08:26,647 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"20"}
+2018-09-18 17:30:04,003 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-18 17:30:04,007 DEBUG add_charge:add_charge:exception details:[<class 'django.db.utils.IntegrityError'>],[(1062, "Duplicate entry 'jtsadmin' for key 'Username'")]
+2018-09-18 17:30:04,007 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-18 17:31:11,975 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-18 17:31:11,975 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"100"}
+2018-09-18 17:31:20,929 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-18 17:31:20,930 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"25"}
+2018-09-20 15:39:19,504 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:39:19,507 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.NameError'>],[global name 'get_roles_rec' is not defined]
+2018-09-20 15:39:19,507 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:55:00,036 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:55:00,039 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.NameError'>],[global name 'get_roles_rec' is not defined]
+2018-09-20 15:55:00,040 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:56:13,351 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:56:13,354 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.NameError'>],[global name 'get_roles_rec' is not defined]
+2018-09-20 15:56:13,354 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:56:38,773 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:56:38,777 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.TypeError'>],[unsupported operand type(s) for /: 'unicode' and 'float']
+2018-09-20 15:56:38,777 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:57:23,302 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:57:23,305 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.NameError'>],[global name 'get__rec' is not defined]
+2018-09-20 15:57:23,305 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:57:29,625 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:57:29,629 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.NameError'>],[global name 'get__rec' is not defined]
+2018-09-20 15:57:29,629 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:58:09,853 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:58:09,856 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.NameError'>],[global name 'get__rec' is not defined]
+2018-09-20 15:58:09,856 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:58:23,699 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:58:23,702 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.TypeError'>],[unsupported operand type(s) for /: 'unicode' and 'float']
+2018-09-20 15:58:23,702 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:58:47,908 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:58:47,912 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.TypeError'>],[unsupported operand type(s) for /: 'unicode' and 'float']
+2018-09-20 15:58:47,912 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:59:22,050 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:59:22,054 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.TypeError'>],[unsupported operand type(s) for -: 'unicode' and 'float']
+2018-09-20 15:59:22,054 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 15:59:54,064 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 15:59:54,067 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.TypeError'>],[unsupported operand type(s) for -: 'unicode' and 'float']
+2018-09-20 15:59:54,067 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 16:00:21,252 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:00:21,257 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.TypeError'>],[unsupported operand type(s) for -: 'unicode' and 'float']
+2018-09-20 16:00:21,257 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 16:00:55,699 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:00:55,703 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.TypeError'>],[unsupported operand type(s) for -: 'unicode' and 'float']
+2018-09-20 16:00:55,704 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 16:01:27,845 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:01:27,848 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"70.1923076923"}
+2018-09-20 16:02:19,841 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:02:19,846 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"70.0"}
+2018-09-20 16:02:46,611 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:02:46,615 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.TypeError'>],[unsupported operand type(s) for /: 'unicode' and 'float']
+2018-09-20 16:02:46,616 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 16:03:44,159 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:03:44,162 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"34.0"}
+2018-09-20 16:04:04,608 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:04:04,611 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"214.0"}
+2018-09-20 16:07:16,536 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:07:16,540 DEBUG add_charge:add_charge:exception details:[<type 'exceptions.UnboundLocalError'>],[local variable 'unitsDom' referenced before assignment]
+2018-09-20 16:07:16,540 DEBUG add_charge:{"error_code":"3", "error_desc": "Response=Recharge Failed "}
+2018-09-20 16:09:11,388 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:09:11,392 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"77.0"}
+2018-09-20 16:09:20,339 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:09:20,343 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"8.0"}
+2018-09-20 16:10:27,888 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:10:27,892 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"8.0"}
+2018-09-20 16:10:31,374 DEBUG add_charge: request is from the IP:122.175.53.53
+2018-09-20 16:10:31,378 DEBUG add_charge:{"error_code":"0", "Response":"Your Recharege is Successfully " , "units":"34.0"}

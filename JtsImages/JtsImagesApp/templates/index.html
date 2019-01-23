@@ -1,0 +1,56 @@
+<html>
+  <title>JTS Images</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+h1 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-align:center;
+}
+div {
+    width: 100%;     
+    background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%)
+}
+img.one {
+  height: 50%;
+  width: 50%;
+}
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}
+img.expand { width: 20em; }
+
+</style>
+  <body>
+    <div>
+	<div class="w3-container">
+	  <h1>JTS Images</h1>
+	     <ul> 
+	      {% for product in data %}
+               
+                <img  class="expand" src="{{ product.Image }}" alt="" >
+                <!--
+                {% if val|first in 'https' %}
+		   # Do stuff
+                   <img  class="expand" src="{{ product.Image }}" alt="" >
+                {% else %}
+                   <img  class="expand" src="http://cld003.jts-prod.in/JtsImages/{{ product.Image }}.jpg" alt="" >
+		{% endif %}
+        	--!>
+	      {% endfor %}
+	    </ul>
+
+	</div>
+    </div>
+
+</body>
+</html>
+<!--    <ul>
+      {% for product in data %}
+         <img src="{{ product.Image }}" alt="" width="500" height="333">
+      {% endfor %}
+    </ul>
+--!>
+

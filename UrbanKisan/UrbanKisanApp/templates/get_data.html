@@ -1,0 +1,52 @@
+<html>
+
+<title>JTS UrbanKisan</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+h1 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    text-align:center;
+}
+div {
+    height: 100%;
+    background: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%)
+}
+</style>
+<body>
+<div>
+<div class="w3-container">
+  <h1>JTS UrbanKisan</h1>
+
+  <table class="w3-table-all w3-centered">
+    <tr>
+      <th>MacId</th>
+      <th>Temp</th>
+      <th>WaterLevel</th>
+       <th>pH</th>
+      <th>Ec</th>
+      <th>ppM</th>
+      <th>ChangeData</th>
+    </tr>
+    {% for category in data %}
+
+      <tr>
+      <td>{{category.MacId}}</td>
+      <td>{{category.Temp}}</td>
+      <td>{{category.WaterLevel}}</td>
+      <td>{{category.Ph}}</td>
+      <td>{{category.EC}}</td>
+      <td>{{category.Ppm}}</td>
+      <td>{{category.ChangeDate}}</td>
+      
+    </tr>
+
+    {% endfor %}
+   
+  </table>
+</div>
+</div>
+</body>
+
+</html>
